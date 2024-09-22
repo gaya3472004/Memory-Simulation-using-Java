@@ -11,6 +11,12 @@ The **Memory Allocation Simulation** is a Java program that demonstrates various
 - Interactive GUI for easy user input and visualization.
 - Real-time updates showing the allocation and deallocation process.
 
+## Output Examples
+![image](https://github.com/user-attachments/assets/48359c54-936d-4263-bc02-30f1f43fd115)
+
 ![image](https://github.com/user-attachments/assets/4371e8d8-fa54-4885-b6fc-fae91d077085)
+
+![image](https://github.com/user-attachments/assets/2afb0693-b08f-4c77-9532-93279f11bc97)
+
 
 
